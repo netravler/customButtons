@@ -1,0 +1,8 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\customButtons\customButtons\bin\Debug\customButtons.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\customButtons\customButtons\bin\Debug\customButtons.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\customButtons\customButtons\obj\x86\Debug\customButtons.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\customButtons\customButtons\obj\x86\Debug\customButtons.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\customButtons\customButtons\obj\x86\Debug\customButtons.csproj.GenerateResource.Cache
+c:\users\pheintz\documents\visual studio 2010\Projects\customButtons\customButtons\obj\x86\Debug\customButtons.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\customButtons\customButtons\obj\x86\Debug\customButtons.pdb
+C:\Users\pheintz\Documents\Visual Studio 2010\Projects\customButtons\customButtons\obj\x86\Debug\customButtons.csprojResolveAssemblyReference.cache
